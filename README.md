@@ -4,4 +4,4 @@
 
 Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridamoussaeffj&layout=compact)](https://github.com/faridamousssaeff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridamoussaeff)](https://github.com/anuraghazra/github-readme-stats)
