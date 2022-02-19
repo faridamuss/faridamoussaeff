@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff)](https://github.com/anuraghazra/github-readme-stats)
+[![Farida's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff)](https://github.com/faridamoussaeff/github-readme-stats)
