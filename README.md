@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my github page! 
 
--👩🏻‍💻 My name is Farida and I am a full stack web developer.
+👩🏻‍💻 My name is Farida and I am a full stack web developer.
 
 <!-- [![Farida's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&theme=calm)](https://github.com/faridamoussaeff/github-readme-stats) -->
 
