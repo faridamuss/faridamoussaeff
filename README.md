@@ -1,8 +1,14 @@
  
-<h1 align="center">Hi 👋🏻, I'm Farida </h1>
+<h1 align="center">Hi 👋, I'm Farida</h1>
+<h3 align="center">A Junior Full Stack Developer with a passion for UX/UI design.</h3>
 
-👩🏻‍💻 I am a junior full stack web developer.
+- 🤝 I'm currently looking for **employment/project opportunities.**
+- 📫 How to reach me **faridamus@protonmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/faridamg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/msbz/" height="30" width="40" /></a>
+</p>
 
 <!-- [![Farida's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&theme=calm)](https://github.com/faridamoussaeff/github-readme-stats) -->
 
