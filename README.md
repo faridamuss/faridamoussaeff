@@ -1,6 +1,6 @@
 # Hey there!👋🏼 
 
-My name is [Farida](https://www.linkedin.com/in/faridamg/), and I am a Full-Stack web developer based in 🇨🇦 Ottawa.
+My name is [Farida](https://www.linkedin.com/in/faridamg/), and I am a Junior Full-Stack Software Developer based in 🇨🇦 Ottawa.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridamoussaeff&label=Profile%20views&color=0e75b6&style=flat" alt="faridamoussaeff" /> </p>
 
 - 🤝 I'm currently looking for **employment/project opportunities.** 
