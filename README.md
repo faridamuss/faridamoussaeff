@@ -1,8 +1,11 @@
-# Hey there! 👋🏻
-My name is [Farida](www.linkedin.com/in/faridamg/), and I am a Full-Stack web developer based in 🇨🇦 Ottawa.
+<h1 align="center"> Hey there!👋🏼 </h1>
+<p align="center"> My name is [Farida](www.linkedin.com/in/faridamg/), and I am a Full-Stack web developer based in 🇨🇦 Ottawa.</p>
 
-- 🤝 I'm currently looking for **employment/project opportunities.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faridamoussaeff&label=Profile%20views&color=0e75b6&style=flat" alt="faridamoussaeff" /> </p>
+
+- 🤝 I'm currently looking for **employment/project opportunities.** 
 - 📫 How to reach me **faridamus@protonmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
