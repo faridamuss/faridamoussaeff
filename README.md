@@ -1,12 +1,11 @@
 # Hey there!👋🏼 
 
-
 My name is [Farida](https://www.linkedin.com/in/faridamg/), and I am a Full-Stack web developer based in 🇨🇦 Ottawa.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridamoussaeff&label=Profile%20views&color=0e75b6&style=flat" alt="faridamoussaeff" /> </p>
 
 - 🤝 I'm currently looking for **employment/project opportunities.** 
+- 👩🏻‍💻 Recently graduated from a 12-week web development bootcamp offered by [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp).
 - 📫 How to reach me **faridamus@protonmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
