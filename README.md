@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
-<!-- | Hi | Bonjour | Olá | Hola | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
+
 
 - 👩🏻‍💻  I am a Full Stack Web Developer, graduated from the [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp).
 <!--   GitHub stats graph -->
