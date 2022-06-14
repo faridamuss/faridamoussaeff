@@ -14,8 +14,8 @@
     <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
     <img src='icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
     <img src='icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
-    <img src='icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
     <img src='icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
+    <img src='icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
     <img src='icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
     <img src='icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
     <img src='icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
