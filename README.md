@@ -9,37 +9,21 @@
 
 ⚒ **The main stack of technologies I use:**
 
-<div>
-    <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
-</div>
-<br />
-
-🛠 **and more:**
-
 <div align='center'>
-    <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Apache Cordova.svg' title='Apache Cordova' alt='Apache Cordova' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Less.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Photoshop.svg' title='Photoshop' alt='Photoshop' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Zeplin.svg' title='Zeplin' alt='Zeplin' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Swagger.svg' title='Swagger' alt='Swagger' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Enzyme.svg' title='Enzyme' alt='Enzyme' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Gulp.svg' title='Gulp' alt='Gulp' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
+    <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
+    <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
+    <img src='icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
+    <img src='icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
+    <img src='icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
+    <img src='icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
+    <img src='icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
+    <img src='icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
+    <img src='icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
+    <img src='icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
+    <img src='icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
+    <img src='icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
+    <img src='icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
+    <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
 </div>
 <br />
+
