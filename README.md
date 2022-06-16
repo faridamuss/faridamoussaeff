@@ -1,6 +1,9 @@
-- 👩🏻‍💻 I am a Full Stack Web Developer, graduated from the
+<h1 align="center">Hi 👋, I'm Farida</h1>
+
+- 👩🏻‍💻  Full Stack Web Developer, graduated from
 [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp).
-<!--   GitHub stats graph -->
+- 🤝 I'm currently looking for **employment/project opportunities.**
+- 📫 You can reach me at **faridamus@protonmail.com**
 
 ### Github Stats & More:
 
