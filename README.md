@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farida</h1>
+<h1 align="center">Hi 👋 I'm Farida</h1>
 
 - 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
 - 👩🏻‍💻  Currently learning Python and AWS.
