@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Farida</h1>
 
-- 👩🏻‍💻  Full Stack Web Developer, graduated from
-[Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-bootcamp).
-- 🤝 I'm currently looking for **employment/project opportunities.**
-- 📫 You can reach me at **faridamus@protonmail.com**
+- 🎓  Graduated from University of Ottawa, LL.M in International Humanitarian & Security Law.
+- 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
+- 👩🏻‍💻  Currently learning Python.
+- 🇨🇦  Based in Ottawa, ON. 
 
 ### Github Stats & More:
 
 |![Farida GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&count_private=true&include_all_commits=true&show_icons=true&theme=react)</a> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=react"/> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-**The main stack of technologies I use:**
+### 🛠 The main stack of technologies I use:
 
 <div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
@@ -30,3 +30,7 @@
 </div>
 <br />
 
+
+## 📫 How to reach me
+<a href="https://www.linkedin.com/in/faridamg/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:faridamussayevadev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
