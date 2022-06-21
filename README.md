@@ -1,4 +1,3 @@
-<img src="https://github.com/faridamoussaeff/faridamoussaeff/blob/main/github-banner.png" alt="github-banner" style="height: 30%">
 <h1 align="center">Hi 👋, I'm Farida</h1>
 
 - 💻  Graduated from Lighthouse Labs, Diploma in Web Development/
