@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Farida</h1>
 
-- 💻  Graduated from Lighthouse Labs, Diploma in Web Development/
+- 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
 - 👩🏻‍💻  Currently learning Python and AWS.
 - 🇨🇦  Based in Ottawa, ON. 
 
 ### Github Stats & More:
 
-|![Farida GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&count_private=true&include_all_commits=true&show_icons=true&theme=light)</a> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=light"/> |
+|![Farida GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&count_private=true&include_all_commits=true&show_icons=true&theme=react)</a> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=react"/> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### 🛠 The main stack of technologies I use:
