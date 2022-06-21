@@ -1,17 +1,16 @@
+<img src="https://github.com/faridamoussaeff/faridamoussaeff/blob/main/github-banner.png" alt="github-banner" style="height: 30%">
 <h1 align="center">Hi 👋, I'm Farida</h1>
 
-- 🎓  Graduated from University of Ottawa, LL.M in International Humanitarian & Security Law.
-- 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
-- 👩🏻‍💻  Currently learning Python.
+- 💻  Graduated from Lighthouse Labs, Diploma in Web Development/
+- 👩🏻‍💻  Currently learning Python and AWS.
 - 🇨🇦  Based in Ottawa, ON. 
 
 ### Github Stats & More:
 
-|![Farida GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&count_private=true&include_all_commits=true&show_icons=true&theme=react)</a> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=react"/> |
+|![Farida GitHub stats](https://github-readme-stats.vercel.app/api?username=faridamoussaeff&count_private=true&include_all_commits=true&show_icons=true&theme=light)</a> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=light"/> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### 🛠 The main stack of technologies I use:
-
 <div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
@@ -29,7 +28,6 @@
     <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
 </div>
 <br />
-
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/faridamg/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
