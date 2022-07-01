@@ -2,7 +2,6 @@
 
 - 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
 - 👩🏻‍💻  Currently learning Python and AWS.
-- 🇨🇦  Based in Ottawa, ON. 
 
 ## 📊 Github Stats:
 
