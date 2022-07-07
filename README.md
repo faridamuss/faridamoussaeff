@@ -26,6 +26,3 @@
     <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
 </div>
 <br />
-
-## 📫 How to reach me
-<a href="mailto:faridamussayevadev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
