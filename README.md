@@ -3,9 +3,6 @@
 - 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
 - 👩🏻‍💻  Currently learning Python and AWS.
 
-### Github Stats 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=light"/> 
-
 ### 🛠 The main stack of technologies I use:
 <div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
