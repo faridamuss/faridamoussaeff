@@ -21,3 +21,11 @@
     <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
 </div>
 <br />
+
+### Github Stats
+
+---
+| <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faridamoussaeff&show_icons=true&theme=light=true" alt="Farida's github stats" /></a> | <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=light=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+</h2>
