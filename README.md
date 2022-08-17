@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there!</h1>
 
 - 💻  Graduated from Lighthouse Labs, Diploma in Web Development.
-- 👩🏻‍💻  Currently learning Python.
+- 👩🏻‍💻  Currently learning Python and AWS.
 
 ### 🛠 The main stack of technologies I use:
 <div align='center'>
