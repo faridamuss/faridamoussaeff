@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 there!</h1>
 
-- 👩🏻‍💻  Currently learning Python and AWS.
-
 ### 🛠 The main stack of technologies I use:
 <div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
