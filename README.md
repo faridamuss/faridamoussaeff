@@ -22,7 +22,7 @@
 ### Github Stats
 
 ---
-| <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faridamoussaeff&show_icons=true&theme=light=true" alt="Farida's github stats" /></a> | <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=light=true" /></a> |
+| <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faridamoussaeff&show_icons=true&theme=react=true" alt="Farida's github stats" /></a> | <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=react=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 </h2>
