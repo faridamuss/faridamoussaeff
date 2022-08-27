@@ -1,4 +1,3 @@
-### 🛠 The main stack of technologies I use:
 <div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
