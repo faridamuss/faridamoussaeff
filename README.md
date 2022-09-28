@@ -8,7 +8,6 @@
     <img src='icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
     <img src='icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
     <img src='icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
-    <img src='icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
     <img src='icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
     <img src='icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
     <img src='icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
