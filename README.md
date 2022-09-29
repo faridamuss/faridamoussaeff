@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋, I am Farida</h2>
+<h2 align="center"> Hi there 👋</h2>
 
 * 🍁 I am a Full-Stack Developer based in Ottawa, ON  
 * 🌱 I am currently working on personal website and a number of projects using Node.js, React.js and Ruby on Rails, 
