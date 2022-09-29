@@ -1,3 +1,9 @@
+<h2 align="center"> Hi there 👋, I am Farida</h2>
+
+* 🍁 I am a Full-Stack Developer based in Ottawa, ON  
+* 🌱 I am currently working on personal website and a number of projects using Node.js, React.js and Ruby on Rails, 
+* 🪄 I really enjoy front end development and creating memorable user experiences.
+
 <div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
@@ -13,6 +19,10 @@
     <img src='icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
     <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
 </div>
-<br />
+<br>
 
-</h2>
+<h2>Github Stats</h2>
+    
+| <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faridamoussaeff&show_icons=true&theme=light=true" alt="Farida's's github stats" /></a> | <a href="https://github.com/faridamoussaeff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridamoussaeff&layout=compact&langs_count=8&theme=light=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
