@@ -1,6 +1,5 @@
 <h2 align="center"> Hi there 👋</h2>
 
-* 🍁 I am a Full-Stack Developer based in Ottawa, ON  
 * 🌱 I am currently working on a personal website and several projects using Node.js, React.js and Ruby on Rails
 * 🪄 I really enjoy front end development and creating memorable user experiences.
 
